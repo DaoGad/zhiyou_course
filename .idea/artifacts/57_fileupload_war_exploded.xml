@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="57_fileupload:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/57_fileupload_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="57_fileupload/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="57_fileupload" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
